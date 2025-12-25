@@ -4,7 +4,7 @@
 
 ## 申请流程
 
-使用前，请在 Ace Data Cloud 平台中进入 [Nano Banana Images API](https://platform.acedata.cloud/documents/23985a11-d713-41d1-ad84-24b021805b3d) 并点击 Acquire 申请开通。首次申请通常会有免费额度可用。开通完成后，即可在平台中获取到用于调用 API 的 Bearer Token。
+使用前，请在 Ace Data Cloud 平台中进入 [Nano Banana Images API](https://share.acedata.cloud/r/1uKyaTjlv3) 并点击 Acquire 申请开通。首次申请通常会有免费额度可用。开通完成后，即可在平台中获取到用于调用 API 的 Bearer Token。
 
 ## 接口概览
 
